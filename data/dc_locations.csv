@@ -8,3 +8,36 @@ Portland,OR,UPS,Distribution Center,45.5152,-122.6784
 Sacramento,CA,USPS,Regional Distribution Center,38.5816,-121.4944
 Los Angeles,CA,Amazon,Fulfillment Center,34.0522,-118.2437
 Las Vegas,NV,Amazon,Sortation Center,36.1699,-115.1398
+Kent,WA,UPS,Regional Hub (Seattle Area),47.4228,-122.2171
+Spokane,WA,Amazon,Fulfillment Center,47.5589,-117.4187
+Renton,WA,Amazon,Air Hub,47.4829,-122.2171
+Medford,OR,Amazon,Fulfillment Center,42.3265,-122.3746
+Phoenix,AZ,Amazon,Fulfillment Center,33.4484,-112.0742
+Dallas,TX,Amazon,Fulfillment Center,32.7767,-96.7970
+Houston,TX,Amazon,Fulfillment Center,29.7604,-95.3698
+Atlanta,GA,Amazon,Fulfillment Center,33.7490,-84.3880
+Chicago,IL,Amazon,Fulfillment Center,41.8781,-87.6298
+Newark,NJ,Amazon,Fulfillment Center,40.7357,-74.1724
+New York,NY,Amazon,Fulfillment Center,40.7128,-74.0060
+Memphis,TN,FedEx,Ground Hub,35.1496,-90.0131
+Indianapolis,IN,FedEx,Regional Hub,39.7684,-86.1581
+Los Angeles,CA,FedEx,Regional Hub,34.0522,-118.2437
+Dallas,TX,FedEx,Regional Hub,32.7767,-96.7970
+Chicago,IL,FedEx,Regional Hub,41.8781,-87.6298
+Atlanta,GA,FedEx,Regional Hub,33.7490,-84.3880
+Newark,NJ,FedEx,Regional Hub,40.7357,-74.1724
+Oakland,CA,UPS,Regional Hub,37.7749,-122.4194
+Denver,CO,UPS,Regional Hub,39.7392,-104.9903
+Dallas,TX,UPS,Regional Hub,32.7767,-96.7970
+Atlanta,GA,UPS,Regional Hub,33.7490,-84.3880
+Chicago,IL,UPS,Regional Hub,41.8781,-87.6298
+New Jersey,NJ,UPS,Regional Hub,40.2206,-74.7597
+Houston,TX,USPS,Processing Distribution Center,29.7604,-95.3698
+Los Angeles,CA,USPS,Processing Distribution Center,34.0522,-118.2437
+New York,NY,USPS,Processing Distribution Center,40.7128,-74.0060
+Chicago,IL,USPS,Processing Distribution Center,41.8781,-87.6298
+Dallas,TX,USPS,Processing Distribution Center,32.7767,-96.7970
+Seattle,WA,USPS,Processing Distribution Center,47.6062,-122.3321
+San Francisco,CA,Amazon,Sortation Center,37.7749,-122.4194
+Boston,MA,Amazon,Fulfillment Center,42.3601,-71.0589
+Miami,FL,Amazon,Fulfillment Center,25.7617,-80.1918
