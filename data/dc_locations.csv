@@ -1,0 +1,10 @@
+city,state,carrier,facility_type,lat,lng
+Seattle,WA,Amazon,Fulfillment Center,47.6062,-122.3321
+Tacoma,WA,Amazon,Sortation Center,47.2529,-122.4443
+Denver,CO,Amazon,Fulfillment Center,39.7392,-104.9903
+Memphis,TN,FedEx,Air Hub (Primary),35.1496,-90.0131
+Indianapolis,IN,UPS,Regional Sort Facility,39.7684,-86.1581
+Portland,OR,UPS,Distribution Center,45.5152,-122.6784
+Sacramento,CA,USPS,Regional Distribution Center,38.5816,-121.4944
+Los Angeles,CA,Amazon,Fulfillment Center,34.0522,-118.2437
+Las Vegas,NV,Amazon,Sortation Center,36.1699,-115.1398
